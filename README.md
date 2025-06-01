@@ -1,4 +1,13 @@
 **README.md**
+# DiningApp API
+
+A Spring Boot REST API that empowers diners to find and review restaurants with allergy safety in mind. Supports user registration, restaurant management, dining reviews, and admin moderation.
+
+## Features
+- User registration and profile updates
+- Restaurant management with allergy scoring
+- Dining review submissions
+- Admin moderation of pending reviews
 
 # DiningApp API Usage Guide
 
