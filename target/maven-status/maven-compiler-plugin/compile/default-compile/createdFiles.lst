@@ -1,0 +1,10 @@
+dining\model\User.class
+dining\repository\UserRepository.class
+dining\repository\RestaurantRepository.class
+dining\DiningAppApplication.class
+dining\model\Admin.class
+dining\repository\AdminRepository.class
+dining\controller\RestaurantController.class
+dining\model\DiningReview.class
+dining\model\Restaurant.class
+dining\repository\DiningReviewRepository.class
